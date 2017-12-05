@@ -4,3 +4,4 @@ Linia2
 Linia32
 Linia42
 Linia52
+dokonalem modyfikacji
